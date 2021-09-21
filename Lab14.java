@@ -26,4 +26,10 @@ class Lab14
   }
 }
 
+OUTPUT
+Z:\mca16.java>javac Lab14.java
+
+Z:\mca16.java>java Lab14
+hai
+hello
  
